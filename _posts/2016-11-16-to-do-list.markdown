@@ -5,6 +5,6 @@ date: 2016-11-16
 img: to_do_list.png
 alt: To-Do List
 tools: Java, XML, Android SDK, RecyclerView
-description: To-Do List is an app that allows users to create and remove to-do lists.  In addition, allow users to add and remove tasks and descriptions for each day.  To-Do List displays correctly in both landscape and portrait orientations. [Click here for Repo](https://github.com/ECarrasco91/project-1)
+description: To-Do List is an app that allows users to create and remove to-do lists.  In addition, allow users to add and remove tasks and descriptions for each day.  To-Do List displays correctly in both landscape and portrait orientations. <a href="https://github.com/ECarrasco91/project-1">Click here for Repo</a>
 
 ---
